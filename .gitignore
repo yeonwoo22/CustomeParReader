@@ -1,0 +1,6 @@
+build
+disc
+__pycache__
+test*
+.vscode
+[0-9]*/
